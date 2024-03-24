@@ -1,0 +1,48 @@
+*   [33mcommit 321343de1007cbbbe831e0b91052393714268f11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mconflict[m[33m)[m
+[31m|[m[32m\[m  Merge: cb72047 cdc8c5f
+[31m|[m [32m|[m Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Sun Mar 24 22:56:06 2024 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'feature1'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit cdc8c5f74a14b245be095bf747042af38ecd2334[m[33m ([m[1;32mfeature1[m[33m)[m
+[31m|[m [32m|[m Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Sun Mar 24 22:50:08 2024 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     feature done
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit c2b34b002a133b9c8176a2b5f900f831cb74adfb[m
+[31m|[m [32m|[m Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Sun Mar 24 22:31:18 2024 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     feature commit 2
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit cc9a3b8ba61e96d5145a414a25bab279228a5686[m
+[31m|[m [32m|[m Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Sun Mar 24 22:29:54 2024 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     feature commit 1
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit cb7204762315bd52044d8542ca0c99ed3e037028[m
+[32m|[m[32m/[m  Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+[32m|[m   Date:   Sun Mar 24 22:45:11 2024 +0530
+[32m|[m   
+[32m|[m       bugfix
+[32m|[m 
+* [33mcommit 2b4a4df67749fe59b565830ac1febaadfcb77348[m
+[32m|[m Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+[32m|[m Date:   Sun Mar 24 22:18:16 2024 +0530
+[32m|[m 
+[32m|[m     version3
+[32m|[m 
+* [33mcommit f6ecded5396f90ee607fac699ec920c9067ee9b4[m
+[32m|[m Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+[32m|[m Date:   Sun Mar 24 22:17:22 2024 +0530
+[32m|[m 
+[32m|[m     version2
+[32m|[m 
+* [33mcommit ad905581a2d21db40e234ca34ea8d5ab653a59d1[m
+  Author: gargsujal1 <101945632+gargsujal1@users.noreply.github.com>
+  Date:   Sun Mar 24 22:16:54 2024 +0530
+  
+      version1
